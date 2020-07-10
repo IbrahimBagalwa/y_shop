@@ -134,4 +134,4 @@ LOGIN_REDIRECT_URL = '/'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 ALLOWED_HOSTS = ['ibrahimbagalwa.pythonanywhere.com', '127.0.0.1']
-STATIC_ROOT = '/home/ibrahimbagalwa/y-shop-static'
+STATIC_ROOT = '/home/ibrahimbagalwa/y_shop-static'
